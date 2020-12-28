@@ -1,32 +1,32 @@
-# TODO_CRATE_NAME
+# img-parts-dump
 
-[![Lib.rs](https://img.shields.io/badge/Lib.rs-*-84f)](https://lib.rs/crates/TODO_CRATE_NAME)
-[![Crates.io](https://img.shields.io/crates/v/TODO_CRATE_NAME)](https://crates.io/crates/TODO_CRATE_NAME)
-[![Docs.rs](https://docs.rs/TODO_CRATE_NAME/badge.svg)](https://docs.rs/crates/TODO_CRATE_NAME)
+[![Lib.rs](https://img.shields.io/badge/Lib.rs-*-84f)](https://lib.rs/crates/img-parts-dump)
+[![Crates.io](https://img.shields.io/crates/v/img-parts-dump)](https://crates.io/crates/img-parts-dump)
+[![Docs.rs](https://docs.rs/img-parts-dump/badge.svg)](https://docs.rs/crates/img-parts-dump)
 
 ![Rust 1.40.0](https://img.shields.io/static/v1?logo=Rust&label=&message=1.40.0&color=grey)
-[![CI](https://github.com/Tamschi/TODO_CRATE_NAME/workflows/CI/badge.svg?branch=develop)](https://github.com/Tamschi/TODO_CRATE_NAME/actions?query=workflow%3ACI+branch%3Adevelop)
-![Crates.io - License](https://img.shields.io/crates/l/TODO_CRATE_NAME/0.0.1)
+[![CI](https://github.com/Tamschi/img-parts-dump/workflows/CI/badge.svg?branch=develop)](https://github.com/Tamschi/img-parts-dump/actions?query=workflow%3ACI+branch%3Adevelop)
+![Crates.io - License](https://img.shields.io/crates/l/img-parts-dump/0.0.1)
 
-[![GitHub](https://img.shields.io/static/v1?logo=GitHub&label=&message=%20&color=grey)](https://github.com/Tamschi/TODO_CRATE_NAME)
-[![open issues](https://img.shields.io/github/issues-raw/Tamschi/TODO_CRATE_NAME)](https://github.com/Tamschi/TODO_CRATE_NAME/issues)
-[![open pull requests](https://img.shields.io/github/issues-pr-raw/Tamschi/TODO_CRATE_NAME)](https://github.com/Tamschi/TODO_CRATE_NAME/pulls)
-[![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/TODO_CRATE_NAME.svg)](https://web.crev.dev/rust-reviews/crate/TODO_CRATE_NAME/)
+[![GitHub](https://img.shields.io/static/v1?logo=GitHub&label=&message=%20&color=grey)](https://github.com/Tamschi/img-parts-dump)
+[![open issues](https://img.shields.io/github/issues-raw/Tamschi/img-parts-dump)](https://github.com/Tamschi/img-parts-dump/issues)
+[![open pull requests](https://img.shields.io/github/issues-pr-raw/Tamschi/img-parts-dump)](https://github.com/Tamschi/img-parts-dump/pulls)
+[![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/img-parts-dump.svg)](https://web.crev.dev/rust-reviews/crate/img-parts-dump/)
 
-TODO_README_DESCRIPTION
+Display some image file information.
 
 ## Installation
 
 Please use [cargo-edit](https://crates.io/crates/cargo-edit) to always add the latest version of this library:
 
 ```cmd
-cargo add TODO_CRATE_NAME
+cargo add img-parts-dump
 ```
 
 ## Example
 
 ```rust
-TODO_EXAMPLE
+//TODO_EXAMPLE
 ```
 
 ## License
@@ -52,7 +52,7 @@ dual licensed as above, without any additional terms or conditions.
 
 ## Versioning
 
-`TODO_CRATE_NAME` strictly follows [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) with the following exceptions:
+`img-parts-dump` strictly follows [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html) with the following exceptions:
 
 * The minor version will not reset to 0 on major version changes (except for v1).  
 Consider it the global feature level.

@@ -1,15 +1,15 @@
 [package]
-name = "TODO_CRATE_NAME"
+name = "img-parts-dump"
 version = "0.0.1"
 authors = ["Tamme Schichler <tamme@schichler.dev>"]
 edition = "2018"
-description = "TODO_DESCRIPTION"
+description = "Display some image file information."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/Tamschi/TODO_CRATE_NAME"
-homepage = "https://github.com/Tamschi/TODO_CRATE_NAME/tree/v0.0.1"
-documentation = "https://docs.rs/TODO_CRATE_NAME/0.0.1"
-keywords = [TODO]
-categories = [TODO]
+repository = "https://github.com/Tamschi/img-parts-dump"
+homepage = "https://github.com/Tamschi/img-parts-dump/tree/v0.0.1"
+documentation = "https://docs.rs/img-parts-dump/0.0.1"
+keywords = [] #TODO
+categories = [] #TODO
 readme = "README.md"
 include = [
 	"**/*.rs",
@@ -23,8 +23,8 @@ include = [
 publish = false
 
 [badges]
-is-it-maintained-issue-resolution = { repository = "Tamschi/TODO_CRATE_NAME" }
-is-it-maintained-open-issues = { repository = "Tamschi/TODO_CRATE_NAME" }
+is-it-maintained-issue-resolution = { repository = "Tamschi/img-parts-dump" }
+is-it-maintained-open-issues = { repository = "Tamschi/img-parts-dump" }
 maintenance = { status = "experimental" }
 
 [dev-dependencies]
