@@ -34,5 +34,5 @@ git_info = "0.1.2"
 version-sync = "0.9.1"
 
 [dependencies]
-img-parts = "0.2.3"
+img-parts = "0.3.0"
 structopt = "0.3.21"
